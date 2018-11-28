@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pasigado_Lab1</string>
+    <string name="btn_one">ONE\n(1)</string>
+    <string name="btn_two">TWO\n(2)</string>
+    <string name="btn_three">THREE\n(3)</string>
+    <string name="btn_four">FOUR\n(4)</string>
+    <string name="btn_five">FIVE\n(5)</string>
+    <string name="btn_six">SIX\n(6)</string>
+    <string name="btn_seven">SEVEN\n(7)</string>
+    <string name="btn_eight">EIGHT\n(8)</string>
+    <string name="btn_nine">NINE\n(9)</string>
+    <string name="btn_zero">ZERO\n(0)</string>
+    <string name="btn_plus">PLUS\n(+)</string>
+    <string name="btn_equal">EQUAL\n(=)</string>
+</resources>

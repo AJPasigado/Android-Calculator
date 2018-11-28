@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Primero Aplicacion</string>
+    <string name="btn_one">UNO\n(1)</string>
+    <string name="btn_two">DOS\n(2)</string>
+    <string name="btn_three">TRES\n(3)</string>
+    <string name="btn_four">CUATRO\n(4)</string>
+    <string name="btn_five">CINCO\n(5)</string>
+    <string name="btn_six">SEIS\n(6)</string>
+    <string name="btn_seven">SIETE\n(7)</string>
+    <string name="btn_eight">OCHO\n(8)</string>
+    <string name="btn_nine">NUEVE\n(9)</string>
+    <string name="btn_zero">CERO\n(0)</string>
+    <string name="btn_plus">MAS\n(+)</string>
+    <string name="btn_equal">IGUAL\n(=)</string>
+</resources>
